@@ -1,0 +1,95 @@
+/* div {
+    height: 100px;
+    width: 100px;
+    background-color: rgb(235, 235, 55);
+    border: 2px brown solid;
+    display: inline-block;
+}
+
+#box1 {
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+
+#box4 {
+    position: absolute;
+    top: 10px;
+    background-image: url("ranjan.png.jpg");
+    background-size: contain;
+
+}
+
+#box3 {
+    position: fixed;
+    top: 0;
+    width: 100px;
+}
+
+#box2 {
+    position: sticky;
+    top: 100px;
+}
+
+body {
+    background-image: url("ranjan.png.jpg");
+    background-size: cover;
+} */
+/* 
+body {
+    text-align: center;
+}
+
+div {
+    height: 20px;
+    width: 50px;
+    display: inline-block;
+    border: 2px solid black;
+}
+
+#container {
+    height: 200px;
+    width: 1000px;
+    display:flex ;
+    flex-direction: row;
+    justify-content:center;
+
+
+}
+
+#box1 {
+    background-color: aqua;
+}
+
+#box2 {
+    background-color: beige;
+}
+
+#box3 {
+    background-color: burlywood;
+}
+
+#box4 {
+    background-color: brown;
+}
+
+#box5 {
+    background-color: blue;
+} */
+
+ul {
+    background-color: rgb(32, 29, 29);
+    display:flex;
+    justify-content:space-evenly;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+   
+}
+
+li {
+    list-style-type: none;
+    
+}
